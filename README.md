@@ -23,14 +23,6 @@ orange, and teal** with a clean design suitable for product browsing and UI inte
 
 ---
 
-## 🌟 Optional Enhancements (Easy to Add Later)
-- Wishlist / favorites button
-- Product carousel slider
-- Sort by price, popularity, or ratings
-- Light/Dark mode toggle
-
----
-
 ## 🛠 Tech Stack
 
 | Technology | Use |
@@ -38,7 +30,6 @@ orange, and teal** with a clean design suitable for product browsing and UI inte
 | **HTML5** | Page structure |
 | **CSS3**  | Styling, layout, responsiveness |
 | **JavaScript** | Dynamic product rendering + search |
-| **(Optional) React** | Can be upgraded later |
 
 ---
 
